@@ -5,8 +5,7 @@
 ## 🚀 Features  
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.  
 - **Interactive Booking System**: Users can select cars and view detailed information dynamically.  
-- **Custom Animations**: Smooth animations for better user experience.  
-- **Form Validation**: Ensures user input is accurate and complete.  
+
 
 ## 🛠️ Technologies Used  
 - **HTML5**: For structuring the web pages.  
